@@ -1,0 +1,12 @@
+README.md
+setup.py
+account_type_predictor/__init__.py
+account_type_predictor/model.py
+account_type_predictor/preprocess.py
+account_type_predictor.egg-info/PKG-INFO
+account_type_predictor.egg-info/SOURCES.txt
+account_type_predictor.egg-info/dependency_links.txt
+account_type_predictor.egg-info/requires.txt
+account_type_predictor.egg-info/top_level.txt
+tests/__init__.py
+tests/test_predictor.py

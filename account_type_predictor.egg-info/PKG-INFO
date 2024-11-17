@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: account_type_predictor
+Version: 1.0.0
+Summary: Prédicteur de types de comptes basé sur un modèle ML.
+Author: Abdallah Nassur
+Author-email: nassur1607@gmail.com
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Requires-Dist: pandas
